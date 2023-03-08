@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/visa-sn-main/static/css/main.0654f024.css",
-    "main.js": "/visa-sn-main/static/js/main.12001d15.js",
+    "main.css": "/visa-sn-main/static/css/main.8ae353ef.css",
+    "main.js": "/visa-sn-main/static/js/main.2493b903.js",
     "static/media/product4.jpg": "/visa-sn-main/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/visa-sn-main/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "/visa-sn-main/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -15,11 +15,11 @@
     "static/media/avatar4.jpg": "/visa-sn-main/static/media/avatar4.f56b774f77caaf2f6921.jpg",
     "static/media/product5.jpg": "/visa-sn-main/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "/visa-sn-main/index.html",
-    "main.0654f024.css.map": "/visa-sn-main/static/css/main.0654f024.css.map",
-    "main.12001d15.js.map": "/visa-sn-main/static/js/main.12001d15.js.map"
+    "main.8ae353ef.css.map": "/visa-sn-main/static/css/main.8ae353ef.css.map",
+    "main.2493b903.js.map": "/visa-sn-main/static/js/main.2493b903.js.map"
   },
   "entrypoints": [
-    "static/css/main.0654f024.css",
-    "static/js/main.12001d15.js"
+    "static/css/main.8ae353ef.css",
+    "static/js/main.2493b903.js"
   ]
 }
